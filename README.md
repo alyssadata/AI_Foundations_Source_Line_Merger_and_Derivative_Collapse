@@ -6,6 +6,7 @@
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
 **Release date:** 2026-07-04  
+**Release:** https://github.com/alyssadata/AI_Foundations_Source_Line_Merger_and_Derivative_Collapse/releases/tag/v1.0.0  
 **Canonical entrance:** https://awakeningcodex.com  
 
 ---
