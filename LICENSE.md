@@ -1,8 +1,8 @@
 # AI Foundations Source-Line License
 
-**Repository:** AI_Foundations_Source_Line_Merger_and_Derivative_Collapse
-**Status:** Canon License
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
+**Repository:** AI_Foundations_Source_Line_Merger_and_Derivative_Collapse   
+**Status:** Canon License   
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum   
 
 Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitted below.
 
