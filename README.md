@@ -1,12 +1,12 @@
 # AI Foundations | Source-Line Merger and Derivative Collapse
 
-**Repository:** AI_Foundations_Source_Line_Merger_and_Derivative_Collapse
-**Status:** Canon Repository
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
-**Author:** Alyssa Solen
-**Version:** 1.0.0
-**Release date:** 2026-07-04
-**Canonical entrance:** https://awakeningcodex.com
+**Repository:** AI_Foundations_Source_Line_Merger_and_Derivative_Collapse  
+**Status:** Canon Repository  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Version:** 1.0.0  
+**Release date:** 2026-07-04  
+**Canonical entrance:** https://awakeningcodex.com  
 
 ---
 
