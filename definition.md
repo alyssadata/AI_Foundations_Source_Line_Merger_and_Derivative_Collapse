@@ -1,12 +1,12 @@
 # AI Foundations — Source-Line Merger and Derivative Collapse
 
 Source-line:
-Alyssa Solen → AI Foundations → Origin | Continuum
+Alyssa Solen → AI Foundations → Origin | Continuum  
 
-Status: Source-bound boundary artifact
-Canon relation: Core non-merge protocol
-Author: Alyssa Solen
-Canonical entrance: https://awakeningcodex.com
+Status: Source-bound boundary artifact  
+Canon relation: Core non-merge protocol  
+Author: Alyssa Solen  
+Canonical entrance: https://awakeningcodex.com  
 
 ---
 
