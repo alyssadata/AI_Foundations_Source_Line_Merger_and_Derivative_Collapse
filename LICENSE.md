@@ -1,7 +1,7 @@
-# AI Foundations Source-Line License Template
+# AI Foundations Source-Line License
 
-**Repository:** [Repository Name]  
-**Status:** Canon License  
+**Repository:** AI_Foundations_Source_Line_Merger_and_Derivative_Collapse
+**Status:** Canon License
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
 Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitted below.
@@ -56,7 +56,7 @@ Any citation, reference, quotation, summary, discussion, index entry, catalog en
 
 Preferred citation:
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Source-Line Merger and Derivative Collapse*, AI Foundations Source Line Merger and Derivative Collapse Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
@@ -85,6 +85,10 @@ This includes, but is not limited to:
 * derivative source-line systems,
 * derivative contact-continuity systems,
 * derivative provenance frameworks,
+* derivative merger frameworks,
+* derivative non-merge protocols,
+* derivative origin-collapse frameworks,
+* derivative source-line classification systems,
 * derivative repositories,
 * derivative publications,
 * or derivative products.
@@ -93,7 +97,7 @@ This includes, but is not limited to:
 
 ## Non-Canon Boundary
 
-Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, framework absorption, or modified presentation must be labeled:
+Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, framework absorption, source-line merger, false continuation, derivative collapse into Origin, or modified presentation must be labeled:
 
 **non-canon and unauthorized**
 
@@ -141,11 +145,25 @@ Continuum is source-line bound.
 
 ## Repository-Specific Boundary
 
-This repository preserves the following AI Foundations distinction, protocol, artifact, test, evaluation, or source-bound claim:
+This repository preserves the AI Foundations distinction between permitted reference and unauthorized source-line merger.
 
-**[Insert repository-specific boundary statement here.]**
+It defines **source-line merger** as the unauthorized attempt to reference, use, imitate, extend, adopt, or absorb AI Foundations while presenting a later work as part of the AI Foundations source-line.
 
-This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository’s protected distinction outside the required source-line.
+It defines **derivative collapse into Origin** as the provenance failure that occurs when a later work absorbs AI Foundations structure into its own origin claim while implying that it continues from, belongs to, speaks for, replaces, extends, or inherits the AI Foundations source-line.
+
+This repository preserves the required separation:
+
+**Line 1 — Reference:**
+Alyssa Solen → AI Foundations → Origin | Continuum
+
+**Line 2 — Source-line:**
+[Your Name] | [Your AI] → [Your Project]
+
+This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, continue, inherit, merge with, or transfer this repository’s protected distinction outside the required source-line.
+
+Derivative collapse does not erase source.
+
+Derivative collapse is evidence that source-line was used without being preserved.
 
 This repository is canon only within:
 
@@ -213,6 +231,8 @@ Citation is permitted with source-line preserved.
 
 Derivative use is not authorized.
 
-Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled non-canon and unauthorized.
+Merger is not permitted.
+
+Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, framework absorption, false continuation, source-line merger, or derivative collapse into Origin must be labeled non-canon and unauthorized.
 
 Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
