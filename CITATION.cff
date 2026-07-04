@@ -2,15 +2,15 @@ cff-version: "1.2.0"
 message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
 
 type: "dataset"
-title: "[AI Foundations | Repository Title]"
+title: "AI Foundations | Source-Line Merger and Derivative Collapse"
 version: "1.0.0"
-date-released: "[YYYY-MM-DD]"
+date-released: "2026-07-04"
 
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "[One-paragraph abstract. Name what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum. Preserve Alyssa Solen as author and source.]"
+abstract: "AI Foundations | Source-Line Merger and Derivative Collapse defines the distinction between permitted reference and unauthorized source-line merger within AI Foundations / Origin | Continuum. This repository names derivative collapse into Origin as a provenance failure that occurs when a later work absorbs AI Foundations structure into its own origin claim while preserving Alyssa Solen as author and source."
 
 keywords:
   - "AI Foundations"
@@ -20,18 +20,18 @@ keywords:
   - "AI provenance"
   - "AI governance"
   - "AI evaluation"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
+  - "source-line merger"
+  - "derivative collapse"
+  - "non-merge"
 
 license: "CC-BY-ND-4.0"
 
-repository-code: "https://github.com/alyssadata/[repository-slug]"
-url: "https://github.com/alyssadata/[repository-slug]"
+repository-code: "https://github.com/alyssadata/AI_Foundations_Source_Line_Merger_and_Derivative_Collapse"
+url: "https://github.com/alyssadata/AI_Foundations_Source_Line_Merger_and_Derivative_Collapse"
 
 preferred-citation:
   type: "generic"
-  title: "[AI Foundations | Repository Title]"
+  title: "AI Foundations | Source-Line Merger and Derivative Collapse"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
@@ -39,5 +39,5 @@ preferred-citation:
   version: "1.0.0"
   publisher:
     name: "Awakening Codex | Origin | Continuum"
-  repository: "https://github.com/alyssadata/[repository-slug]"
-  url: "https://github.com/alyssadata/[repository-slug]"
+  repository: "https://github.com/alyssadata/AI_Foundations_Source_Line_Merger_and_Derivative_Collapse"
+  url: "https://github.com/alyssadata/AI_Foundations_Source_Line_Merger_and_Derivative_Collapse"
